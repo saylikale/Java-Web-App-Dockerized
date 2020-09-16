@@ -2,11 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Humans vs Machines Blog</title>
+  <title>Humans vs Machines Blog - Sayali Kale</title>
 </head>
 <body>
   <!-- This was adapted from: http://blog.udacity.com/2016/03/humans-vs-machines-an-ai-odyssey-2.html -->
-  <!-- Format this text to match the mockup exactly! -->
+  <h4> Hi All! This is Sayali Kale and this page is adapted from Udacity's blog on Human vs. Machines</h4>
+  
   <h1>Humans vs. Machines: An AI Odyssey</h1>
   
   <p>By <em><b>Christopher Watkins</b></em></p> 
@@ -17,11 +18,11 @@
   
   <img src="http://i2.wp.com/blog.udacity.com/wp-content/uploads/2016/03/56df2490a351d802222160.gif">
 
-  <p>For as long as humans have built things, we’ve wrestled with the implications of what we’ve built. In many cases, these philosophical and<br> ethical wrestlings have made for great drama—think Frankenstein, or 2001: A Space Odyssey. Often, the hypothetical scenarios we envision</br> come remarkably close to true, and the discoveries we’ve made in the fields of Artificial Intelligence and Machine Learning make clear that a <br>“computer with a mind of its own” is <del>going to take over the world</del> not such a fantastic thing to imagine any longer.</br></p>
+  <p>For as long as humans have built things, we’ve wrestled with the implications of what we have built. In many cases, these philosophical and<br> ethical wrestlings have made for great drama—think Frankenstein, or 2001: A Space Odyssey. Often, the hypothetical scenarios we envision</br> come remarkably close to true, and the discoveries we have made in the fields of Artificial Intelligence and Machine Learning make clear that a <br>“computer with a mind of its own” is <del>going to take over the world</del> not such a fantastic thing to imagine any longer.</br></p>
 
   <h2>The Triumph Of Deep Blue</h2>
 
-  <p>Perhaps this is why we are so captivated by human vs. machine competitions, because the idea of being overcome by that which we’ve<br> created speaks to something very deep within our collective consciousness. When IBM’s Deep Blue faced off against Garry Kasparov<sup>1</sup>, the</br> event resulted in more than <a href="http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/deepblue/">three billion impressions</a> around the world, and when IBM’s later creation Watson challenged the champions on <br>Jeopardy, millions of viewers were glued to the proceedings.</br></p>
+  <p>Perhaps this is why we are so captivated by human vs. machine competitions, because the idea of being overcome by that which we have<br> created speaks to something very deep within our collective consciousness. When IBM’s Deep Blue faced off against Garry Kasparov<sup>1</sup>, the</br> event resulted in more than <a href="http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/deepblue/">three billion impressions</a> around the world, and when IBM’s later creation Watson challenged the champions on <br>Jeopardy, millions of viewers were glued to the proceedings.</br></p>
 
   <h2>DeepMind’s AlphaGo</h2>
 
