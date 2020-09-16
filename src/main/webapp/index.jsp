@@ -18,7 +18,7 @@
   
   <img src="http://i2.wp.com/blog.udacity.com/wp-content/uploads/2016/03/56df2490a351d802222160.gif">
 
-  <p>For as long as humans have built things, we have wrestled with the implications of what we have built. In many cases, these philosophical and<br> ethical wrestlings have made for great drama—think Frankenstein, or 2001: A Space Odyssey. Often, the hypothetical scenarios we envision</br> come remarkably close to true, and the discoveries we have made in the fields of Artificial Intelligence and Machine Learning make clear that a <br>“computer with a mind of its own” is <del>going to take over the world</del> not such a fantastic thing to imagine any longer.</br></p>
+  <p>For as long as humans have built things, we have wrestled with the implications of what we have built. In many cases, these philosophical and<br> ethical wrestlings have made for great drama-think Frankenstein, or 2001: A Space Odyssey. Often, the hypothetical scenarios we envision</br> come remarkably close to true, and the discoveries we have made in the fields of Artificial Intelligence and Machine Learning make clear that a <br>"computer with a mind of its own" is <del>going to take over the world</del> not such a fantastic thing to imagine any longer.</br></p>
 
   <h2>The Triumph Of Deep Blue</h2>
 
@@ -26,7 +26,7 @@
 
   <h2>DeepMind's AlphaGo</h2>
 
-  <p>Taking place right now, there is an event that, while not likely to scale the same media heights, may in fact have far greater implications<br> when it comes to the future of "intelligent" machines. On March 9, in Seoul, South Korea, a computing system know as AlphoGo (built by </br>researchers at DeepMind—a Google Artificial Intelligence lab) began <a href="http://venturebeat.com/2016/02/04/youtube-will-livestream-googles-ai-playing-go-superstar-lee-sedol-in-march/">a five-game match</a> against Lee Se-dol, one of the very best players in<br> the world at the ancient game of Go.</br></p>
+  <p>Taking place right now, there is an event that, while not likely to scale the same media heights, may in fact have far greater implications<br> when it comes to the future of "intelligent" machines. On March 9, in Seoul, South Korea, a computing system know as AlphoGo (built by </br>researchers at DeepMind-a Google Artificial Intelligence lab) began <a href="http://venturebeat.com/2016/02/04/youtube-will-livestream-googles-ai-playing-go-superstar-lee-sedol-in-march/">a five-game match</a> against Lee Se-dol, one of the very best players in<br> the world at the ancient game of Go.</br></p>
   
   <p>Why is this so significant?</p>
   
