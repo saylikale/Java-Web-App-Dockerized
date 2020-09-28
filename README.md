@@ -2,15 +2,15 @@
 This contains a sample web application and I have automated the Integration Process for deploying this app to tomcat server.
 
 #DevOps Tools Used:
-Jenkins
-Maven
-GitHub
-Nexus
-SonarQube
+Jenkins,
+Maven,
+GitHub,
+Nexus,
+SonarQube,
 Docker
 
 #Jenkins Plugins Used:
-pipeline plugin
+pipeline plugin,
 ssh-agent plugin
 
 #Deployment Automation Workflow:
