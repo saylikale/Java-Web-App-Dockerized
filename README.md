@@ -15,12 +15,4 @@ ssh-agent plugin
 
 #Deployment Automation Workflow:
 
-             Nexus
-              ^
-              |
-GitHub ---> Jenkins ---> SonarQube
-             ^    ^
-            /      \
-        Maven     Docker ---> My Java Application
-        
-    
+GitHub -> Jenkins -> Maven -> SonarQube -> Nexus -> DockerHub -> Docker -> End-User Application
