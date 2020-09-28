@@ -1,5 +1,5 @@
 # Jenkins-Tomcat-Integration
-This contains a sample web application and I have automated the Integration Process for deploying this app to tomcat server.
+This contains a sample Java Web Application and I have automated the Integration Process for deploying this app to the tomcat container.
 
 #DevOps Tools Used:
 Jenkins,
